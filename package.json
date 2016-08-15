@@ -1,0 +1,33 @@
+{
+  "name": "project_title_here",
+  "version": "1.0.0",
+  "description": "project_Description_here",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ankit Chheda",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.14.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-sass": "^2.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "to_be_added"
+  },
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "sass",
+    "browser-sync",
+    "jade"
+  ],
+  "bugs": {
+    "url": "github ISSUES link to be added here"
+  },
+  "homepage": "homepage link to be added here"
+}
